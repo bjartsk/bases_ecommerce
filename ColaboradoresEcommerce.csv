@@ -1,0 +1,8 @@
+ID,Nome,Cargo,DataContratacao,Telefone,Email,Rua,Bairro,Cidade,Estado,cep
+1,Carla Souza,Vendedora,2022-03-15,1134567890,carla.souza@email.com,"Rua das Flores, 123",Vila Esperança,São Paulo,SP,01000001
+2,Paulo Silva,Vendedor ,2022-05-10,1123456789,paulo.silva@email.com,"Avenida do Sol, 456",Jardim da Harmonia,São Paulo,SP,20000001
+3,Marta Rocha,Gerente,2022-07-20,1145678901,marta.rochaa@email.com,"Praça da Liberdade, 789",Parque dos Sabiás,São Paulo,SP,01000001
+4,Sofia Ramos,Técnica,2022-01-12,1198765432,sofia.ramos@email.com,"Alameda dos Pinheiros, 234",Floresta dos Pinheiros,São Paulo,SP,40000001
+5,João Pereira,Estoquista,2022-09-05,1123456789,joao.pereira@email.com,"Travessa dos Girassóis, 567",Centro,São Paulo,SP,20000001
+6,Talita Borges,Financeiro,2022-04-02,1156789012,talita.borges@email.com,"Rodovia do Mar, 890",Nova Aurora,São Paulo,SP,90000001
+7,Larissa Freitas,Vendedora,2023-01-10,1187654321,larissa.freitas@email.com,"Beco das Estrelas, 1234",Centro,São Paulo,SP,20000001
